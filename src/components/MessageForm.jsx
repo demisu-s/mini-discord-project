@@ -17,11 +17,11 @@ export default function MessageForm({ sendMessage }) {
         value={message}
         onChange={(e) => setMessage(e.target.value)}
         placeholder="Enter your message"
-        className="border-none p-2 rounded mr-2 w-3/4 bg-[#42464b] text-white"
+        className="border-none p-2 rounded mr-2  w-3/4 bg-[#42464b] text-white"
       />
       <button
         onClick={handleSend}
-        className="bg-blue-500 text-white p-2 rounded"
+        className="bg-[#363a3e] text-white p-2 rounded-md"
       >
         Send
       </button>
