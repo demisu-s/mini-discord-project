@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# mini-discord-project
+# mini-discord-project.
 =======
 # How to use this starter kit
 
